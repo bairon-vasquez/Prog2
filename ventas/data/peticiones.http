@@ -1,0 +1,155 @@
+### agregar un cliente (se admiten homónimos)
+POST http://localhost:4567/clientes
+Content-Type: application/json; charset=utf-8
+
+{
+    "identificacion": "C05",
+    "nombre": "Cristian de la macarena",
+    "telefono": "8841134"
+}
+
+###Listar todos los clientes
+GET http://localhost:4567/clientes
+
+###prueba de la clase StandardResponse
+GET http://localhost:4567/prueba
+
+### Buscar un cliente por el índice
+GET http://localhost:4567/clientes/1
+
+### Buscar un cliente por identificación (se supone un cliente con ID = C02)
+GET http://localhost:4567/clientes/C02
+
+### agregar un cliente (se admiten homónimos)
+POST http://localhost:4567/clientes
+Content-Type: application/json; charset=utf-8
+
+{
+    "identificacion": "C12",
+    "nombre": "Juliana Gómez Galindo",
+    "telefono": "3118161459"
+}
+
+### actualizar los datos de un cliente (busca por identificación)
+PUT http://localhost:4567/clientes/C01
+Content-Type: application/json; charset=utf-8
+
+{
+    "nombre": "profe cuesta",
+    "telefono": "3124584758"
+}
+
+### Eliminar un cliente
+DELETE http://localhost:4567/clientes/C04
+
+###---------------Productos--------------------
+
+### gregar un producto
+POST http://localhost:4567/productos
+Content-Type: application/json; charset=utf-8
+
+{
+    "nombre": "Supremo",
+    "tipo": "Harina",
+    "valorBase": 2500,
+    "valorVenta": 3500,
+    "disponibles": 50,
+    "vence": "2023-12-25"
+}
+
+###Listar todos los productos
+GET http://localhost:4567/productos
+
+### Buscar un producto por el índice
+GET http://localhost:4567/productos/1
+
+### Buscar un producto por identificación (se supone un cliente con ID = C02)
+GET http://localhost:4567/productos/SP8EW
+
+### actualizar los datos de un producto (busca por identificación)
+PUT http://localhost:4567/productos/SP8EW
+Content-Type: application/json; charset=utf-8
+
+{
+
+    "valorVenta": 10000,
+
+}
+
+### Eliminar un producto
+DELETE http://localhost:4567/productos/B56KD
+
+###---------------ventas--------------------
+##listar todas las ventas
+GET http://localhost:4567/ventas
+### agregar ventas (con su respectivo detalle)
+POST http://localhost:4567/ventas
+Content-Type: application/json; charset=utf-8
+
+{
+    "venta": {
+      "fecha": "2023-10-01T08:00",
+      "cliente": "C05"
+    },
+    "detalle": [
+      {
+        "producto": "SP8EW",
+        "cantidad": 2
+      },
+      {
+        "producto": "D4FFQ",
+        "cantidad": 0
+      },
+      {
+        "producto": "M8529",
+        "cantidad": 3
+      }
+    ]
+}
+
+##punto 50 taller 6
+### Listar todas las categorías 
+GET http://localhost:4567/categorias
+
+### Buscar una venta por su Id
+GET http://localhost:4567/ventas/F930O
+
+### Eliminar una venta
+DELETE http://localhost:4567/ventas/F930O
+
+### actualizar los datos de una venta(busca por id)
+PUT http://localhost:4567/ventas/F930O
+Content-Type: application/json; charset=utf-8
+
+{
+    {
+    "venta": {
+
+      "fecha": "2023-10-01T08:00",
+      "cliente": "C01"
+    },
+    "detalle": [
+      {
+
+        "producto": "D4FFQ",
+        "cantidad": 2,
+      },
+      {
+
+        "producto": "M8529",
+        "cantidad": 0,
+      }
+
+    ]
+ }
+}
+
+
+### Listar todas las categorías de productos
+GET http://localhost:4567/categorias
+
+
+
+
+
+

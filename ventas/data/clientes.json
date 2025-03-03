@@ -1,0 +1,72 @@
+[
+  {
+    "identificacion": "C01",
+    "telefono": "3124584758",
+    "nombre": "profe cuesta"
+  },
+  {
+    "identificacion": "C02",
+    "telefono": "3214551232",
+    "nombre": "Pepe Perez"
+  },
+  {
+    "identificacion": "C03",
+    "telefono": "3144551264",
+    "nombre": "Fernando Fernandoza"
+  },
+  {
+    "identificacion": "C12",
+    "telefono": "3124584758",
+    "nombre": "Erika Fernández Loaiza"
+  },
+  {
+    "identificacion": "C05",
+    "telefono": "3214652145",
+    "nombre": "Cristian de la macarena"
+  },
+  {
+    "identificacion": "C04",
+    "telefono": "3183085974",
+    "nombre": "Anay Cruz"
+  },
+  {
+    "identificacion": "C06",
+    "telefono": "3202645128",
+    "nombre": "Estefania "
+  },
+  {
+    "identificacion": "C07",
+    "telefono": "3154650864",
+    "nombre": "Rafael medina"
+  },
+  {
+    "identificacion": "C08",
+    "telefono": "3224645521",
+    "nombre": "Luk"
+  },
+  {
+    "identificacion": "C09",
+    "telefono": "3114552004",
+    "nombre": "Carlos"
+  },
+  {
+    "identificacion": "C10",
+    "telefono": "3144551624",
+    "nombre": "Dylver"
+  },
+  {
+    "identificacion": "C11",
+    "telefono": "3112544516",
+    "nombre": "Juanfe"
+  },
+  {
+    "identificacion": "C13",
+    "telefono": "3202660864",
+    "nombre": "Ofelia Ceballos"
+  },
+  {
+    "identificacion": "C14",
+    "telefono": "3214568564",
+    "nombre": "Sebastian Herrera"
+  }
+]

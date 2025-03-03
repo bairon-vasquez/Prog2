@@ -1,0 +1,156 @@
+[
+  {
+    "tipo": "ASEO_GENERAL",
+    "disponibles": 0,
+    "subtotal": 0,
+    "valorVenta": 10000,
+    "tipoEnum": "Aseo general",
+    "id": "SP8EW",
+    "valorBase": 8000,
+    "nombre": "Brilla",
+    "vence": "2023-12-25"
+  },
+  {
+    "tipo": "ASEO_GENERAL",
+    "disponibles": 20,
+    "subtotal": 240000,
+    "valorVenta": 12000,
+    "tipoEnum": "Aseo general",
+    "id": "WXZBT",
+    "valorBase": 10000,
+    "nombre": "Ariel",
+    "vence": "2023-12-25"
+  },
+  {
+    "tipo": "GOLOSINAS",
+    "disponibles": 49,
+    "subtotal": 98000,
+    "valorVenta": 2000,
+    "tipoEnum": "Golosina",
+    "id": "D4FFQ",
+    "valorBase": 1500,
+    "nombre": "Trululu",
+    "vence": "2023-12-25"
+  },
+  {
+    "tipo": "BEBIDAS",
+    "disponibles": 29,
+    "subtotal": 290000,
+    "valorVenta": 10000,
+    "tipoEnum": "Bebida o gaseosa",
+    "id": "RI73Y",
+    "valorBase": 8000,
+    "nombre": "Monster",
+    "vence": "2023-12-30"
+  },
+  {
+    "tipo": "HARINAS",
+    "disponibles": 37,
+    "subtotal": 148000,
+    "valorVenta": 4000,
+    "tipoEnum": "Harina",
+    "id": "M8529",
+    "valorBase": 3000,
+    "nombre": "ArrozDiana",
+    "vence": "2023-12-25"
+  },
+  {
+    "tipo": "GOLOSINAS",
+    "disponibles": 20,
+    "subtotal": 100000,
+    "valorVenta": 5000,
+    "tipoEnum": "Golosina",
+    "id": "FO41P",
+    "valorBase": 4500,
+    "nombre": "Choclitos",
+    "vence": "2023-11-30"
+  },
+  {
+    "tipo": "GOLOSINAS",
+    "disponibles": 50,
+    "subtotal": 100000,
+    "valorVenta": 2000,
+    "tipoEnum": "Golosina",
+    "id": "8O9BJ",
+    "valorBase": 1500,
+    "nombre": "Choconuts",
+    "vence": "2024-02-20"
+  },
+  {
+    "tipo": "ASEO_PERSONAL",
+    "disponibles": 95,
+    "subtotal": 1425000,
+    "valorVenta": 15000,
+    "tipoEnum": "Aseo personal",
+    "id": "TPW54",
+    "valorBase": 12000,
+    "nombre": "Nosotras toallas higiénicas paquete",
+    "vence": "2026-07-18"
+  },
+  {
+    "tipo": "OTROS",
+    "disponibles": 493,
+    "subtotal": 5916000,
+    "valorVenta": 12000,
+    "tipoEnum": "Otros",
+    "id": "2UNDU",
+    "valorBase": 8000,
+    "nombre": "Durex condones texturizados ",
+    "vence": "2027-12-25"
+  },
+  {
+    "tipo": "BEBIDAS",
+    "disponibles": 100,
+    "subtotal": 2500000,
+    "valorVenta": 25000,
+    "tipoEnum": "Bebida o gaseosa",
+    "id": "AAZR4",
+    "valorBase": 20000,
+    "nombre": "Vino rojo",
+    "vence": "2023-02-01"
+  },
+  {
+    "tipo": "ASEO_PERSONAL",
+    "disponibles": 50,
+    "subtotal": 350000,
+    "valorVenta": 7000,
+    "tipoEnum": "Aseo personal",
+    "id": "46ATI",
+    "valorBase": 5000,
+    "nombre": "Desobrante",
+    "vence": "2023-02-01"
+  },
+  {
+    "tipo": "BEBIDAS",
+    "disponibles": 500,
+    "subtotal": 1000000,
+    "valorVenta": 2000,
+    "tipoEnum": "Bebida o gaseosa",
+    "id": "NQE1J",
+    "valorBase": 1500,
+    "nombre": "Gaseosa",
+    "vence": "2023-03-15"
+  },
+  {
+    "tipo": "FRUTAS_Y_VERDURAS",
+    "disponibles": 500,
+    "subtotal": 1250000,
+    "valorVenta": 2500,
+    "tipoEnum": "Fruta o verdura",
+    "id": "SE6V1",
+    "valorBase": 2000,
+    "nombre": "Manzana",
+    "vence": "2024-04-16"
+  },
+  {
+    "tipo": "LACTEOS",
+    "disponibles": 0,
+    "subtotal": 0,
+    "valorVenta": 11000,
+    "tipoEnum": "Lácteo",
+    "id": "FIYWR",
+    "valorBase": 9000,
+    "nombre": "mantequilla",
+    "vence": "2024-01-15"
+  }
+]

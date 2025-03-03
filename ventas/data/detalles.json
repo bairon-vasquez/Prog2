@@ -1,0 +1,377 @@
+[
+  {
+    "venta": {
+      "fecha": "2023-10-01T08:00",
+      "cliente": {
+        "identificacion": "C01",
+        "telefono": "3124584758",
+        "nombre": "profe cuesta"
+      },
+      "numero": "F930O"
+    },
+    "subtotal": 2000,
+    "id": "G4FGD",
+    "producto": {
+      "tipo": "ASEO_GENERAL",
+      "disponibles": 0,
+      "subtotal": 0,
+      "valorVenta": 1000,
+      "tipoEnum": "Aseo general",
+      "id": "SP8EW",
+      "valorBase": 8000,
+      "nombre": "Brilla",
+      "vence": "2023-12-25"
+    },
+    "cantidad": 2
+  },
+  {
+    "venta": {
+      "fecha": "2023-10-01T08:00",
+      "cliente": {
+        "identificacion": "C01",
+        "telefono": "3124584758",
+        "nombre": "profe cuesta"
+      },
+      "numero": "F930O"
+    },
+    "subtotal": 12000,
+    "id": "JL1M5",
+    "producto": {
+      "tipo": "HARINAS",
+      "disponibles": 37,
+      "subtotal": 148000,
+      "valorVenta": 4000,
+      "tipoEnum": "Harina",
+      "id": "M8529",
+      "valorBase": 3000,
+      "nombre": "ArrozDiana",
+      "vence": "2023-12-25"
+    },
+    "cantidad": 3
+  },
+  {
+    "venta": {
+      "fecha": "2023-10-01T08:00",
+      "cliente": {
+        "identificacion": "C01",
+        "telefono": "3124584758",
+        "nombre": "profe cuesta"
+      },
+      "numero": "HMUG2"
+    },
+    "subtotal": 20000,
+    "id": "ATO0U",
+    "producto": {
+      "tipo": "ASEO_GENERAL",
+      "disponibles": 0,
+      "subtotal": 0,
+      "valorVenta": 10000,
+      "tipoEnum": "Aseo general",
+      "id": "SP8EW",
+      "valorBase": 8000,
+      "nombre": "Brilla",
+      "vence": "2023-12-25"
+    },
+    "cantidad": 2
+  },
+  {
+    "venta": {
+      "fecha": "2023-10-01T08:00",
+      "cliente": {
+        "identificacion": "C01",
+        "telefono": "3124584758",
+        "nombre": "profe cuesta"
+      },
+      "numero": "HMUG2"
+    },
+    "subtotal": 12000,
+    "id": "8V8NK",
+    "producto": {
+      "tipo": "HARINAS",
+      "disponibles": 37,
+      "subtotal": 148000,
+      "valorVenta": 4000,
+      "tipoEnum": "Harina",
+      "id": "M8529",
+      "valorBase": 3000,
+      "nombre": "ArrozDiana",
+      "vence": "2023-12-25"
+    },
+    "cantidad": 3
+  },
+  {
+    "venta": {
+      "fecha": "2023-10-01T08:00",
+      "cliente": {
+        "identificacion": "C01",
+        "telefono": "3124584758",
+        "nombre": "profe cuesta"
+      },
+      "numero": "IMX3P"
+    },
+    "subtotal": 20000,
+    "id": "G6CAZ",
+    "producto": {
+      "tipo": "ASEO_GENERAL",
+      "disponibles": 0,
+      "subtotal": 0,
+      "valorVenta": 10000,
+      "tipoEnum": "Aseo general",
+      "id": "SP8EW",
+      "valorBase": 8000,
+      "nombre": "Brilla",
+      "vence": "2023-12-25"
+    },
+    "cantidad": 2
+  },
+  {
+    "venta": {
+      "fecha": "2023-10-01T08:00",
+      "cliente": {
+        "identificacion": "C01",
+        "telefono": "3124584758",
+        "nombre": "profe cuesta"
+      },
+      "numero": "IMX3P"
+    },
+    "subtotal": 12000,
+    "id": "DJGLQ",
+    "producto": {
+      "tipo": "HARINAS",
+      "disponibles": 37,
+      "subtotal": 148000,
+      "valorVenta": 4000,
+      "tipoEnum": "Harina",
+      "id": "M8529",
+      "valorBase": 3000,
+      "nombre": "ArrozDiana",
+      "vence": "2023-12-25"
+    },
+    "cantidad": 3
+  },
+  {
+    "venta": {
+      "fecha": "2023-10-01T08:00",
+      "cliente": {
+        "identificacion": "C05",
+        "telefono": "3214652145",
+        "nombre": "Cristian de la macarena"
+      },
+      "numero": "9D1J8"
+    },
+    "subtotal": 20000,
+    "id": "HWXQF",
+    "producto": {
+      "tipo": "ASEO_GENERAL",
+      "disponibles": 0,
+      "subtotal": 0,
+      "valorVenta": 10000,
+      "tipoEnum": "Aseo general",
+      "id": "SP8EW",
+      "valorBase": 8000,
+      "nombre": "Brilla",
+      "vence": "2023-12-25"
+    },
+    "cantidad": 2
+  },
+  {
+    "venta": {
+      "fecha": "2023-10-01T08:00",
+      "cliente": {
+        "identificacion": "C05",
+        "telefono": "3214652145",
+        "nombre": "Cristian de la macarena"
+      },
+      "numero": "9D1J8"
+    },
+    "subtotal": 12000,
+    "id": "VV8R2",
+    "producto": {
+      "tipo": "HARINAS",
+      "disponibles": 37,
+      "subtotal": 148000,
+      "valorVenta": 4000,
+      "tipoEnum": "Harina",
+      "id": "M8529",
+      "valorBase": 3000,
+      "nombre": "ArrozDiana",
+      "vence": "2023-12-25"
+    },
+    "cantidad": 3
+  },
+  {
+    "venta": {
+      "fecha": "2023-11-26T02:55",
+      "cliente": {
+        "identificacion": "C01",
+        "telefono": "3124584758",
+        "nombre": "profe cuesta"
+      },
+      "numero": "PYKX0"
+    },
+    "subtotal": 10000,
+    "id": "C4F8S",
+    "producto": {
+      "tipo": "BEBIDAS",
+      "disponibles": 29,
+      "subtotal": 290000,
+      "valorVenta": 10000,
+      "tipoEnum": "Bebida o gaseosa",
+      "id": "RI73Y",
+      "valorBase": 8000,
+      "nombre": "Monster",
+      "vence": "2023-12-30"
+    },
+    "cantidad": 1
+  },
+  {
+    "venta": {
+      "fecha": "2023-11-26T03:33",
+      "cliente": {
+        "identificacion": "C03",
+        "telefono": "3144551264",
+        "nombre": "Fernando Fernandoza"
+      },
+      "numero": "WLDH8"
+    },
+    "subtotal": 2000,
+    "id": "7W3O9",
+    "producto": {
+      "tipo": "GOLOSINAS",
+      "disponibles": 49,
+      "subtotal": 98000,
+      "valorVenta": 2000,
+      "tipoEnum": "Golosina",
+      "id": "D4FFQ",
+      "valorBase": 1500,
+      "nombre": "Trululu",
+      "vence": "2023-12-25"
+    },
+    "cantidad": 1
+  },
+  {
+    "venta": {
+      "fecha": "2023-11-26T01:59:55.165",
+      "cliente": {
+        "identificacion": "C01",
+        "telefono": "3124584758",
+        "nombre": "profe cuesta"
+      },
+      "numero": "7OXY4"
+    },
+    "subtotal": 4000,
+    "id": "OZ8CI",
+    "producto": {
+      "tipo": "HARINAS",
+      "disponibles": 37,
+      "subtotal": 148000,
+      "valorVenta": 4000,
+      "tipoEnum": "Harina",
+      "id": "M8529",
+      "valorBase": 3000,
+      "nombre": "ArrozDiana",
+      "vence": "2023-12-25"
+    },
+    "cantidad": 1
+  },
+  {
+    "venta": {
+      "fecha": "2023-11-26T02:09:05.937",
+      "cliente": {
+        "identificacion": "C04",
+        "telefono": "3183085974",
+        "nombre": "Anay Cruz"
+      },
+      "numero": "3NBXH"
+    },
+    "subtotal": 60000,
+    "id": "JUK8K",
+    "producto": {
+      "tipo": "OTROS",
+      "disponibles": 495,
+      "subtotal": 5940000,
+      "valorVenta": 12000,
+      "tipoEnum": "Otros",
+      "id": "2UNDU",
+      "valorBase": 8000,
+      "nombre": "Durex condones texturizados ",
+      "vence": "2027-12-25"
+    },
+    "cantidad": 5
+  },
+  {
+    "venta": {
+      "fecha": "2023-11-26T02:09:05.937",
+      "cliente": {
+        "identificacion": "C04",
+        "telefono": "3183085974",
+        "nombre": "Anay Cruz"
+      },
+      "numero": "3NBXH"
+    },
+    "subtotal": 75000,
+    "id": "LL4EW",
+    "producto": {
+      "tipo": "ASEO_PERSONAL",
+      "disponibles": 95,
+      "subtotal": 1425000,
+      "valorVenta": 15000,
+      "tipoEnum": "Aseo personal",
+      "id": "TPW54",
+      "valorBase": 12000,
+      "nombre": "Nosotras toallas higiénicas paquete",
+      "vence": "2026-07-18"
+    },
+    "cantidad": 5
+  },
+  {
+    "venta": {
+      "fecha": "2023-11-26T21:17:10.983",
+      "cliente": {
+        "identificacion": "C14",
+        "telefono": "3214568564",
+        "nombre": "Sebastian Herrera"
+      },
+      "numero": "PJWP1"
+    },
+    "subtotal": 120000,
+    "id": "6ZVWA",
+    "producto": {
+      "tipo": "ASEO_GENERAL",
+      "disponibles": 0,
+      "subtotal": 0,
+      "valorVenta": 10000,
+      "tipoEnum": "Aseo general",
+      "id": "SP8EW",
+      "valorBase": 8000,
+      "nombre": "Brilla",
+      "vence": "2023-12-25"
+    },
+    "cantidad": 12
+  },
+  {
+    "venta": {
+      "fecha": "2023-11-26T23:31:29.867",
+      "cliente": {
+        "identificacion": "C06",
+        "telefono": "3202645128",
+        "nombre": "Estefania "
+      },
+      "numero": "1UNNI"
+    },
+    "subtotal": 24000,
+    "id": "Q4P2W",
+    "producto": {
+      "tipo": "OTROS",
+      "disponibles": 493,
+      "subtotal": 5916000,
+      "valorVenta": 12000,
+      "tipoEnum": "Otros",
+      "id": "2UNDU",
+      "valorBase": 8000,
+      "nombre": "Durex condones texturizados ",
+      "vence": "2027-12-25"
+    },
+    "cantidad": 2
+  }
+]
